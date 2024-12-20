@@ -1,0 +1,9 @@
+
+
+.root {
+    /* max-width: inherit; */
+    display:flex;
+    width:100%;
+    /* background-color: lightgreen; */
+    position: absolute;
+}
